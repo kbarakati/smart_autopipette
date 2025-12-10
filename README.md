@@ -6,14 +6,19 @@ This repository contains the full implementation of **AutoPipetteEnv**, a LiDAR-
 
 ## 🧭 Navigation Behavior Comparison
 
-| 5 Obstacles | 10 Obstacles |
-|-------------|--------------|
-| <video width="360" autoplay loop muted playsinline><source src="https://github.com/user-attachments/assets/341b195f-c92e-4819-ae7c-a651b721ba87" type="video/mp4"></video> | <video width="360" autoplay loop muted playsinline><source src="https://github.com/user-attachments/assets/383d2497-bcfe-449d-8aa7-31eb184e904f" type="video/mp4"></video> |
+<p align="center">
+  <video width="360" autoplay loop muted playsinline>
+    <source src="https://github.com/user-attachments/assets/341b195f-c92e-4819-ae7c-a651b721ba87" type="video/mp4">
+  </video>
+
+  <video width="360" autoplay loop muted playsinline>
+    <source src="https://github.com/user-attachments/assets/383d2497-bcfe-449d-8aa7-31eb184e904f" type="video/mp4">
+  </video>
+</p>
 
 <p align="center"><em>
 Left: 5 obstacles (clear corridors). Right: 10 obstacles (detours required).
 </em></p>
-
 
 ## 📌 Motivation
 
