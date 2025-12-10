@@ -63,10 +63,3 @@ This enables the robot to navigate congested decks while avoiding racks, plates,
 - Training curve visualization
 
 ---
-
-## 🏗 Installation
-
-```bash
-git clone https://github.com/<your-username>/autopipette-rl-navigation.git
-cd autopipette-rl-navigation
-pip install -r requirements.txt
