@@ -4,6 +4,15 @@ This repository contains the full implementation of **AutoPipetteEnv**, a LiDAR-
 
 ---
 
+## 🧭 Navigation Behavior Comparison
+
+<div align="center">
+  <img src="smart_autopipette/5_obstacles_5.gif" width="350" alt="Simple layout (5 obstacles)">
+  <img src="smart_autopipette/10_obstacles_4.gif" width="350" alt="Moderate layout (10 obstacles)">
+  <br>
+  <em>Left: sparse deck (5 obstacles) with clear corridors. Right: moderate congestion (10 obstacles) requiring detours.</em>
+</div>
+
 ## 📌 Motivation
 
 Conventional liquid-handling robots (TECAN, Hamilton, Biomek, OT-2) assume **fully static deck geometry**. Any plate displacement, reagent swap, or human intervention introduces collision risk.
