@@ -7,13 +7,14 @@ This repository contains the full implementation of **AutoPipetteEnv**, a LiDAR-
 ## 🧭 Navigation Behavior Comparison
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
   
-  <video src="<video controls src="https://github.com/kbarakati/smart_autopipette/blob/main/media/5_obstacles_5.mp4" title="PASTE_5_OBSTACLES_LINK_HERE"></video>"
+  <video src="https://github.com/user-attachments/assets/341b195f-c92e-4819-ae7c-a651b721ba87"
          width="360" autoplay loop muted playsinline></video>
 
-  <video src="<video controls src="https://github.com/kbarakati/smart_autopipette/blob/main/media/10_obstacles_4.mp4" title="PASTE_10_OBSTACLES_LINK_HERE"></video>"
+  <video src="https://github.com/user-attachments/assets/383d2497-bcfe-449d-8aa7-31eb184e904f"
          width="360" autoplay loop muted playsinline></video>
 
 </div>
+
 <p align="center"><em>
 Left: 5 obstacles. Right: 10 obstacles.
 </em></p>
